@@ -1,5 +1,5 @@
 # e2e_reader
-Extractor for E2E files to numpy volumes. Scans need to be individually exported as separate E2E files for this to work.
+Simple extractor for E2E files to numpy volumes. Scans need to be individually exported as separate E2E files for this to work.
 ## Requirements
 - eyepy
 - tqdm
